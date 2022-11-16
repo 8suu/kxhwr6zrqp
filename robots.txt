@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: 
-Sitemap:https://rajaslot5000.docs.ddo.sfa.atos.net/sitemap.xml
+Sitemap:https://rajaslot5000.sinonjs.org/sitemap.xml
